@@ -4,79 +4,120 @@
       "id": 1,
       "conteudo": "We are the champions my friends!!!",
       "autoria": "Queen",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estou confiante que tudo vai dar certo!",
       "autoria": "Eu mesmo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Continue a codar... continue a codar...",
       "autoria": "Dory programadora",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 4,
       "conteudo": "Testando função de editar",
       "autoria": "Angular 12",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 5,
       "conteudo": "Da vida reclama, mas sem ela não vive!",
       "autoria": "mestre yoda",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 6,
-      "conteudo": "sexto ",
-      "autoria": "asdasdsad",
-      "modelo": "modelo3"
+      "conteudo": "Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.",
+      "autoria": "Bruno",
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 7,
       "conteudo": "setimo",
       "autoria": "asdasdsda",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 8,
-      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "conteudo": "Melhor professor, o fracasso é!",
       "autoria": "mestre yoda",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 9,
       "conteudo": "sexto ",
       "autoria": "asdasdsad",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 10,
       "conteudo": "setimo",
       "autoria": "asdasdsda",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 11,
-      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "conteudo": "Que a força esteja com você!",
       "autoria": "mestre yoda",
-      "modelo": "modelo2"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 12,
       "conteudo": "sexto ",
       "autoria": "asdasdsad",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 13,
       "conteudo": "Resolver um bug você não consegue, esfriar a cabeça você deve!",
       "autoria": "Mestre Yoda",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Na volta a gente compra!",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 14
+    },
+    {
+      "conteudo": "Em casa a gente conversa!",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 15
+    },
+    {
+      "conteudo": "Se eu for ai e achar, eu esfrego na sua cara!",
+      "autoria": "Mãe",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 16
+    },
+    {
+      "conteudo": "Que a força esteja comigo sempre!",
+      "autoria": "Bruno",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 17
     }
   ]
 }
